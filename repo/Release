@@ -1,12 +1,12 @@
-Origin: propr's repo
-Label: propr's repo
+Origin: williambulin's and killertofu's repo
+Label: williambulin's and killertofu's repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: bttv/ffz4ios
 Architectures: iphoneos-arm
 Components: main
-Description: worst repo
+Description: twitch repo
 
 SHA256:
- c0ac012cd87890b2f06f257da097afa49e97a79c225292f4f92677cb89d8a7f5 979 Packages.bz2
- 3a1190b1ed6d187aa9001d5db589d5eda1ab8ecaa46e3b3af5cd2f8b4c7bd925 916 Packages.xz
+ a233cc95332b33acad7dd069b244bdfef6112ebdd8b9bd62698a2fd3d6adff94  Packages.bz2
+ ec90b2a2c26b78bdc8c7e766c84f1c0ddc85da73708ba2126b10dd230025fd37  Packages.xz
